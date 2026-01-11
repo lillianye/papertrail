@@ -2,6 +2,9 @@
 
 A private, empathetic, and intelligent journaling platform that makes self-reflection a seamless and insightful daily habit. Built with React and Flask, powered by OpenAI's GPT-3.5-turbo.
 
+## Video Demo
+https://vimeo.com/1153369847
+
 ## ✨ Features
 
 - 📅 **Calendar View**: Visual calendar with sentiment and theme indicators for each entry
